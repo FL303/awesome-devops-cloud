@@ -124,6 +124,9 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | System Design Primer | Learn how to design large-scale systems | https://github.com/donnemartin/system-design-primer | 2025-07-17 |
 | SRE Books | Google's Site Reliability Engineering books | https://github.com/captn3m0/google-sre-ebook | 2025-07-17 |
 | Cloud Design Patterns | Design patterns for cloud applications | https://github.com/mspnp/cloud-design-patterns | 2025-07-17 |
+| Platform Engineering | Community hub with articles, talks, and jobs for platform engineers | https://platformengineering.org | 2026-05-07 |
+| Internal Developer Platform | Reference site for IDP concepts, patterns, and the ecosystem | https://internaldeveloperplatform.org | 2026-05-07 |
+| Weave Intelligence | Research and analyst firm covering platform engineering | https://weaveintelligence.io | 2026-05-07 |
 
 
 ## Platforms & Frameworks
@@ -408,6 +411,7 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | AWS Amplify | Development platform for building full-stack applications | https://github.com/aws-amplify/amplify-js | 2025-07-17 |
 | Azure Bicep | Domain-specific language for deploying Azure resources | https://github.com/Azure/bicep | 2025-07-17 |
 | Google Cloud Code | IDE extensions for cloud-native development | https://github.com/GoogleCloudPlatform/cloud-code-samples | 2025-07-17 |
+| PlatformCon | The world's largest platform engineering conference (online) | https://platformcon.com | 2026-05-07 |
 
 ## Learning Paths & Roadmaps
 
@@ -437,6 +441,7 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | Certified Kubernetes Security Specialist | Study guide for CKS certification | https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist | 2025-07-17 |
 | DevSecOps Learning | Resources for learning DevSecOps | https://github.com/TaptuIT/awesome-devsecops | 2025-07-17 |
 | Cloud Security Learning | Resources for cloud security | https://github.com/btkrausen/cloudandcontainersecurity | 2025-07-17 |
+| Platform Engineering University | Platform engineering courses and certifications | https://university.platformengineering.org | 2026-05-07 |
 
 ## Beginner-Friendly Tools & Tutorials
 
@@ -583,6 +588,7 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | Kanister | Framework for application-level data management on Kubernetes | https://github.com/kanisterio/kanister | 2025-07-17 |
 | Chaoskube | Chaotic testing tool for Kubernetes | https://github.com/linki/chaoskube | 2025-07-17 |
 | Kubeflow Pipelines | Platform for deploying ML workflows on Kubernetes | https://github.com/kubeflow/pipelines | 2025-07-17 |
+| Platform Weekly | Weekly newsletter on platform engineering news and trends | https://platformweekly.com | 2026-05-07 |
 
 
 ### 🤝 Contributing
