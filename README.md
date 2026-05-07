@@ -153,6 +153,7 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | Backstage | Developer portal platform | https://backstage.io/ | 2025-07-22 |
 | Dapr | Portable, event-driven runtime for building microservices | https://dapr.io/ | 2025-07-22 |
 | Falco | Cloud-native runtime security | https://falco.org/ | 2025-07-22 |
+| PlatformCon | The world's largest platform engineering conference (online) | https://platformcon.com | 2026-05-07 |
 
 
 ## Hands-on Labs & Sandboxes
@@ -411,7 +412,6 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | AWS Amplify | Development platform for building full-stack applications | https://github.com/aws-amplify/amplify-js | 2025-07-17 |
 | Azure Bicep | Domain-specific language for deploying Azure resources | https://github.com/Azure/bicep | 2025-07-17 |
 | Google Cloud Code | IDE extensions for cloud-native development | https://github.com/GoogleCloudPlatform/cloud-code-samples | 2025-07-17 |
-| PlatformCon | The world's largest platform engineering conference (online) | https://platformcon.com | 2026-05-07 |
 
 ## Learning Paths & Roadmaps
 
